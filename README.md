@@ -1,6 +1,6 @@
 # Sprint0--Backend
 
-Este permite iniciar un servidorREST, en el cual contamos con un m´etodo GET y un POST.
+Este permite iniciar un servidorREST, en el cual contamos con un método GET y un POST.
 
 En primer lugar, para iniciar el servidor es necesario introducir la ruta a ala carpeta en la que se encuentra el servidor e introducir: 
 - npm un servidor.
@@ -10,7 +10,7 @@ Para accede a él, deberemos acceder a ux\Aplicacion.html y abrirlo en un navega
 
 Si en algún caso, deseamos ejecutar alguno de los test de la lógica o el servidor, accederemos a la carpeta deseada e introduciremos el comando:
 
--npm run test 
+- npm run test 
 
  Tras esto, nos indicará los resultados.
  
