@@ -8,7 +8,8 @@ En primer lugar, para iniciar el servidor es necesario introducir la ruta a ala 
 Tras esto, deberá inicializarse el servidor en el puerto 8080.
 Para accede a él, deberemos acceder a ux\Aplicacion.html y abrirlo en un navegador. Al abrir la web, podremos observar un botón "Mostrar mediciones", que nos permitirá mostrar la tabla con las mediciones recibidas.
 
-Si en algún caso, deseamos ejecutar alguno de los test de la lógica o el servidor, accederemos a la carpeta deseada e introduciremos el comando:ç
+Si en algún caso, deseamos ejecutar alguno de los test de la lógica o el servidor, accederemos a la carpeta deseada e introduciremos el comando:
+
 -npm run test 
 
  Tras esto, nos indicará los resultados.
